@@ -1,5 +1,5 @@
 1. 輸入token  
-2. 使用上下鍵找到server選項
+2. 使用上下鍵找到要的隧道
 3. 按Enter
 4. 按Tab
 5. 按Enter
